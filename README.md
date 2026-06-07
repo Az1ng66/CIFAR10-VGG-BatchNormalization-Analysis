@@ -22,5 +22,5 @@ This project implements a VGG-A based neural network for CIFAR-10 classification
 - `get_stats.py`: Tool for counting model parameters.
 
 ## 4. Resource Links
-- **Trained Weights**: [此处粘贴你的网盘链接]
+- **Trained Weights**: (https://drive.google.com/file/d/1deP5yb_NnOU8rBXq9HOYP2dDyjyh59go/view?usp=sharing)
 - **Dataset**: Official CIFAR-10 dataset (downloaded via torchvision)
